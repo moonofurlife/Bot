@@ -1,0 +1,14 @@
+2023-09-27 12:42:03,404 CRITICAL authorization failed, errorBot token is not defined
+2023-09-27 12:44:47,310 CRITICAL authorization failed, errorBot token is not defined
+2023-09-27 12:45:00,905 CRITICAL authorization failed, errorBot token is not defined
+2023-09-27 12:50:01,572 INFO successful authorization
+2023-09-27 12:50:27,615 CRITICAL authorization failed, errorno such table: shop
+2023-09-27 13:09:04,934 INFO successful authorization
+2023-09-27 13:09:29,791 CRITICAL authorization failed, errorno such table: shop
+2023-09-27 13:15:24,236 CRITICAL authorization failed, errorno such table: shop
+2023-09-27 13:15:37,321 CRITICAL authorization failed, errorno such table: shop
+2023-09-27 13:16:02,194 CRITICAL authorization failed, errorno such table: shop
+2023-09-27 13:16:31,105 ERROR SHOW: the user 332875126 did not specify a date, error: list index out of range
+2023-09-27 13:17:01,346 CRITICAL authorization failed, errorno such table: shop
+2023-09-27 15:02:54,142 CRITICAL authorization failed, errorCould not find a suitable TLS CA certificate bundle, invalid path: /Users/mac/Desktop/DEV/Python/Продвинутый Python/Bot/venv/lib/python3.11/site-packages/certifi/cacert.pem
+2023-09-27 15:06:03,392 CRITICAL authorization failed, errorBot token is not defined
